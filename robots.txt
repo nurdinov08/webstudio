@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+# robots.txt for https://webstudio-eta.vercel.app/
+
+# Delay for all crawlers to prevent server overload
+Crawl-delay: 10
+
+# Specific bot rules (example: Googlebot)
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 5
+
+# Sitemap location
+Sitemap: https://webstudio-eta.vercel.app/sitemap.xml
