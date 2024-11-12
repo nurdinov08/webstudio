@@ -34,7 +34,6 @@ input::-webkit-inner-spin-button {
 .container {
   width: 1200px;
   margin: 0 auto; /* ЦЕНТРИРУЕТ */
-  border: 2px solid red;
 }
 
 @media screen and (max-width: 480px) {

@@ -79,7 +79,9 @@
   height: 16px;
   fill: var(--text-color);
 }
-
+.header__close {
+  display: none;
+}
 @media screen and (max-width: 480px) {
   .header__hidden {
     position: fixed;
